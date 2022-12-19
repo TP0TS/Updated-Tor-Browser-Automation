@@ -1,0 +1,6 @@
+{
+    "firefoxexe":"Browser\\firefox.exe",
+    "profilepath":"Browser\\TorBrowser\\Data\\Browser\\profile.default",
+    "geckodriverpath":"geckodriver.exe",
+    "waitaftervisit":5
+}
